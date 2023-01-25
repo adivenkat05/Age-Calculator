@@ -13,7 +13,7 @@ cd Age-Calculator
 
 python3 age.py
 ```
-OR 
+ OR 
 
 ```
 git clone https://github.com/adivenkat05/Age-Calculator.git && cd Age-Calculator && python3 age.py
